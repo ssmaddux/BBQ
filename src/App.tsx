@@ -14,7 +14,7 @@ function App() {
   return (
     <>
     <Container maxWidth="sm">
-      <Grid container spacing={4}>
+      <Grid container spacing={1}>
         <TourCard/>
         <TourCard/>
         <TourCard/>
