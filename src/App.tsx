@@ -17,7 +17,7 @@ function App() {
   return (
     <>
     <DrawerAppBar/>
-    <Container maxWidth="sm">
+    <Container maxWidth="md" >
       <Grid container spacing={1}>
         <TourCard/>
         <TourCard/>
